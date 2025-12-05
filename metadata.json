@@ -1,0 +1,5 @@
+{
+  "name": "SpazioNetwork Editorial Dashboard",
+  "description": "AI-powered editorial dashboard for managing sports news, generating article ideas, and optimizing titles for SEO and Discover using Gemini and Google Search.",
+  "requestFramePermissions": []
+}
